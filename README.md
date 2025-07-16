@@ -8,4 +8,7 @@ Tecnologias: HTML, CSS, Flexbox, BEM, Figma y GitHub.
 
 Funcionalidad: La página presenta una galería de arte que muestra los lugares de origen de nuestros colegas, reunidos en la ciudad de TripleTen. Comienza con una sección de bienvenida y una breve descripción.
 
+Visibilidad en la web
+https://betiuxd5.github.io/web_project_homeland/
+
 BY: ALBERTO GONZALEZ
